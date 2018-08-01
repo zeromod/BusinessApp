@@ -33,11 +33,16 @@
                 android:id="@+id/founded"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
                 android:text="@string/founded" />
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_toEndOf="@+id/founded"
+                android:textSize="18sp"
+                android:layout_margin="8dp"
                 android:text="@string/june_2011"/>
 
         </RelativeLayout>
@@ -48,10 +53,15 @@
                 android:id="@+id/ceo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
                 android:text="@string/ceo" />
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:layout_margin="8dp"
                 android:layout_toEndOf="@+id/ceo"
                 android:text="@string/vishal_makhijani"/>
 
@@ -63,10 +73,15 @@
                 android:id="@+id/users"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:layout_margin="8dp"
                 android:text="@string/users" />
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:layout_margin="8dp"
                 android:layout_toEndOf="@+id/users"
                 android:text="@string/_1_6_million"/>
 
