@@ -2,9 +2,9 @@
     <string name="app_name">Business App</string>
     <string name="udacity_logo">Udacity Logo</string>
     <string name="founded">Founded</string>
-    <string name="june_2011">June 2011</string>
+    <string name="founded_date">June 2011</string>
     <string name="ceo">CEO</string>
-    <string name="vishal_makhijani">Vishal Makhijani</string>
+    <string name="ceo_name">Vishal Makhijani</string>
     <string name="users">Users</string>
-    <string name="_1_6_million">1.6 Million</string>
+    <string name="users_count">1.6 Million</string>
 </resources>
